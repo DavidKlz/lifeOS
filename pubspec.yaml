@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dk_calendar:
+    path: ../dk_calendar
 
 dev_dependencies:
   flutter_test:
